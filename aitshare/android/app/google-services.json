@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "746384591284",
+    "firebase_url": "https://aitshareflutter.firebaseio.com",
+    "project_id": "aitshareflutter",
+    "storage_bucket": "aitshareflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746384591284:android:11813f1d6cc57f09",
+        "android_client_info": {
+          "package_name": "com.example.aitshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746384591284-sm6o89f1ks8at4r2cmh5u46jk5sfbhm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3qpKobv7X0zIjjCP584BDt8APRRhrIXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746384591284-sm6o89f1ks8at4r2cmh5u46jk5sfbhm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
